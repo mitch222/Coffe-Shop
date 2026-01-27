@@ -1,2 +1,4 @@
 Django==6.0.1
 ipython==9.9.0
+pillow==12.1.0
+crispy-tailwind==1.0.3
